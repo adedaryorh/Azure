@@ -2,9 +2,8 @@
 # Building a CI/CD Pipeline Project: Deploy Flask Application using GitHub Actions and Azure CI/CD Pipelines
 
 Project Plan
-we created a Trello board for task tracking as well as a spreadsheet with the estimated project plan.
-
-A Trello board has been created to keep track of the tasks.
+Trello board for task tracking as well as a spreadsheet with the estimated project plan.
+A Trello board keep track of the tasks.
 link: https://trello.com/invite/b/jASHAofS/ATTI9b2e7e9fc4caede4fd97eeec2151db37B074142F/flaskcicd
 A Project Planning Spreadsheetspreadsheet has been created to manage the project schedule.
 Link: https://docs.google.com/spreadsheets/d/1fi1APWukVy7KuaN8mI1WrVUaAa3ykESTGA8-DMCY7ro/edit?usp=sharing
@@ -36,8 +35,6 @@ This project consists of flask application that is developed to predict housing 
 
 Architectural Diagram
 ![image](https://github.com/adedaryorh/Azure/assets/64752771/2e23eece-b807-44d6-aee7-6d81f2c9dc63)
-
-
 
 
 ### Instructions
@@ -142,7 +139,11 @@ https://drive.google.com/file/d/1XcD2zXMaqZSF3kt6IVqnAUe0XLGzbUap/view?usp=shari
 
 ### Enhancements
 1. Create a UI with a button to predict the outcome. 
-2. Custom Autoscale plan can be created for automated scaling based on load. 
+3. Custom Autoscale plan can be created for automated scaling based on load. 
+(https://github.com/adedaryorh/Azure/assets/64752771/c26300f9-12e2-4a81-b913-bdd210d4c7a8)
+(https://github.com/adedaryorh/Azure/assets/64752771/83c0e654-3316-4f74-870d-031ad84b35b1)
+
+
 
 ### Youtube Video Link
 (https://youtu.be/v0g-L1vi3cA)
